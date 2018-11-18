@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RegisterToLogin</string>
+    <!--<string name="username_*">Username,<font color="#2086c6"> (*)</font></string>-->
+    <!--<string name="ramakisan_saha_ws00157">Ramakisan Saha,<font color="#2086c6"> (WS00157)</font></string>-->
+    <string-array name="Country">
+        <item>Select Country</item>
+        <item>India</item>
+        <item>Pak</item>
+        <item>Aus</item>
+        <item>Japan</item>
+        <item>NZL</item>
+        <item>SRI</item>
+        <item>AFG</item>
+        <item>SA</item>
+        <item>NL</item>
+        <item>BAN</item>
+
+
+    </string-array>
+
+
+</resources>
